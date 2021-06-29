@@ -1,16 +1,37 @@
 [{
-	"question": "1.This is a sample question:",
+	"question": "1.Which of the following is not an indirect test?",
 	"answers": {
-		"a": "This is a sample answer A",
-		"b": "This is a sample answer B"
+		"a": "Rebound hammer test",
+		"b": " Windsor Probe",
+		"c": "Core test",
+		"d": "Ultrasound test"
+	},
+	"correctAnswer": "c"
+}, {
+	"question": "2. An ultrasonic pulse velocity test is_____.",
+	"answers": {
+		"a": "Nondestructive, ex-situ test",
+		"b": "Nondestructive, in-situ test",
+		"c": "Destructive, ex-situ test",
+		"d": "Destructive, in-situ test"
+	},
+	"correctAnswer": "b"
+}, {
+	"question": "3.Question- Higher velocities in ultrasonic pulse velocity test indicate_____.",
+	"answers": {
+		"a": "Good quality and uniformity of concrete",
+		"b": "Good quality and discontinuity in the concrete",
+		"c": "Concrete has many internal cracks",
+		"d": "Concrete has many internal voids"
 	},
 	"correctAnswer": "a"
 }, {
-	"question": "<img src='images/8.PNG'><br>Identify the location of Secondary electron detector",
+	"question": "4. Pulse velocity measurement does not depend on_____.",
 	"answers": {
-		"a": "<img src='images/1b.png'>",
-		"b": "<img src='images/1a.png'>",
-		"c": "<img src='images/1c.PNG'>"
+		"a": "Moisture content of concrete",
+		"b": "Temperature of concrete",
+		"c": "Density of the concrete",
+		"d": "Geometry of the concrete member"
 	},
-	"correctAnswer": "c"
+	"correctAnswer": "d"
 }]

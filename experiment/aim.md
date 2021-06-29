@@ -1,1 +1,1 @@
-### Aim of the experiment
+#### To determine the static modulus of elasticity of hardened concrete in compression.
