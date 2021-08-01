@@ -1,19 +1,16 @@
 [{
-	"question": "1. Ratio of the pulse velocities measured on two different concrete elements having same density and same Poisson's ratio is 1:2. The ratio of dynamic modulus of elasticity will be_____.",
+	"question": "1.This is a sample question:",
 	"answers": {
-		"a": "1:2",
-		"b": "2:1",
-		"c": "1:4",
-		"d": "4:1"
+		"a": "This is a sample answer A",
+		"b": "This is a sample answer B"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "<img src='images/8.PNG'><br>Identify the location of Secondary electron detector",
+	"answers": {
+		"a": "<img src='images/1b.png'>",
+		"b": "<img src='images/1a.png'>",
+		"c": "<img src='images/1c.PNG'>"
 	},
 	"correctAnswer": "c"
-}, {
-	"question": "2. Pulse velocity measurement on a concrete specimen gives pulse velocity at cross-probing as 3.8Km/s. Quality of the concrete is_____.",
-	"answers": {
-		"a": "Excellent",
-		"b": "Good",
-		"c": "Poor",
-		"d": "Doubtful"
-	},
-	"correctAnswer": "b"
 }]
