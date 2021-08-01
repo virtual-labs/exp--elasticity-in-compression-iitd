@@ -2,7 +2,7 @@
 
 Background: Deformations are induced in concrete structural members due to loads imposed on them. It is often necessary to calculate such deformations, including deflections for the purposes of serviceability, crack control and to consider the secondary effects of such deformations on the forces of the structures (like rib shortening, thermal effects etc). Such deformations become very significant for design of prestressed concrete. Static modulus of elasticity is used to estimate such deformations. In the absence of test values, IS:456 (2000) specifies an approximate formula for this modulus of elasticity as
 
-<img src="images/pic2.png" height="60px">
+<img src="images/pic2.png" height="46px">
 
 where f<sub>ck</sub> is the characteristic strength of concrete in MPa. This specified value is given after taking long term effects, i.e., creep etc, and other safety factors into account, for design purposes. To know the accurate value of elastic modulus of a concrete batch, laboratory test can be done.
 
