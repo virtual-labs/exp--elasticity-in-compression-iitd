@@ -1,16 +1,51 @@
 [{
-	"question": "1.This is a sample question:",
+	"question": "1. What is the ratio of 150 mm cube strength and 300x150 mmxmm cylinder strength of concrete?",
 	"answers": {
-		"a": "This is a sample answer A",
-		"b": "This is a sample answer B"
+		"a": "1.25",
+		"b": "0.8",
+		"c": "1",
+		"d": "1.5"
 	},
 	"correctAnswer": "a"
-}, {
-	"question": "<img src='images/8.PNG'><br>Identify the location of Secondary electron detector",
+},
+ {
+	"question": "2. What is the basic stress in this experiment? (Fc= cylindrical compressive strength)",
 	"answers": {
-		"a": "<img src='images/1b.png'>",
-		"b": "<img src='images/1a.png'>",
-		"c": "<img src='images/1c.PNG'>"
+		"a": "Fc",
+		"b": "Fc/2",
+		"c": "Fc/3",
+		"d": "Fc/9"
+
+},
+	"correctAnswer": "d"
+},
+ {
+	"question": "3. Which Indian Standard (IS) code is adopted for the determination of static modulus of elasticity of hardened concrete in compression?",
+	"answers": {
+		"a": "IS-456",
+		"b": "IS-10262",
+		"c": "IS-516",
+		"d": "IS-13311"
 	},
 	"correctAnswer": "c"
+},
+ {
+	"question": "4. What is the recognized age of the test specimen at the time of the test in days as per IS:516?",
+	"answers": {
+		"a": "7",
+		"b": "10",
+		"c": "28",
+		"d": "30"
+	},
+	"correctAnswer": "c"
+},
+ {
+	"question": "5. What is the most preferred length to diameter ratio of cylindrical concrete specimen as per IS:516.",
+	"answers": {
+		"a": "2",
+		"b": "4",
+		"c": "1",
+		"d": "3"
+	},
+	"correctAnswer": "a"
 }]
