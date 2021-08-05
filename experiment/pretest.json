@@ -40,21 +40,12 @@
 	"correctAnswer": "c"
 },
  {
-	"question": "5.This is a sample question:",
+	"question": "5. What is the most preferred length to diameter ratio of cylindrical concrete specimen as per IS:516.",
 	"answers": {
-		"a": "1.25",
-		"b": "0.8",
+		"a": "2",
+		"b": "4",
 		"c": "1",
-		"d": "1.5"
+		"d": "3"
 	},
 	"correctAnswer": "a"
-},
- {
-	"question": "<img src='images/8.PNG'><br>Identify the location of Secondary electron detector",
-	"answers": {
-		"a": "<img src='images/1b.png'>",
-		"b": "<img src='images/1a.png'>",
-		"c": "<img src='images/1c.PNG'>"
-	},
-	"correctAnswer": "c"
 }]
