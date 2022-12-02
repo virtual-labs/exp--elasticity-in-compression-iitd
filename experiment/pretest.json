@@ -1,37 +1,51 @@
 [{
-	"question": "1.Which of the following is not an indirect test?",
+	"question": "1. What is the ratio of 150 mm cube strength and 300x150 mmxmm cylinder strength of concrete?",
 	"answers": {
-		"a": "Rebound hammer test",
-		"b": " Windsor Probe",
-		"c": "Core test",
-		"d": "Ultrasound test"
-	},
-	"correctAnswer": "c"
-}, {
-	"question": "2. An ultrasonic pulse velocity test is_____.",
-	"answers": {
-		"a": "Nondestructive, ex-situ test",
-		"b": "Nondestructive, in-situ test",
-		"c": "Destructive, ex-situ test",
-		"d": "Destructive, in-situ test"
-	},
-	"correctAnswer": "b"
-}, {
-	"question": "3.Question- Higher velocities in ultrasonic pulse velocity test indicate_____.",
-	"answers": {
-		"a": "Good quality and uniformity of concrete",
-		"b": "Good quality and discontinuity in the concrete",
-		"c": "Concrete has many internal cracks",
-		"d": "Concrete has many internal voids"
+		"a": "1.25",
+		"b": "0.8",
+		"c": "1",
+		"d": "1.5"
 	},
 	"correctAnswer": "a"
-}, {
-	"question": "4. Pulse velocity measurement does not depend on_____.",
+},
+ {
+	"question": "2. What is the basic stress in this experiment? (Fc= cylindrical compressive strength)",
 	"answers": {
-		"a": "Moisture content of concrete",
-		"b": "Temperature of concrete",
-		"c": "Density of the concrete",
-		"d": "Geometry of the concrete member"
-	},
+		"a": "Fc",
+		"b": "Fc/2",
+		"c": "Fc/3",
+		"d": "Fc/9"
+
+},
 	"correctAnswer": "d"
+},
+ {
+	"question": "3. Which Indian Standard (IS) code is adopted for the determination of static modulus of elasticity of hardened concrete in compression?",
+	"answers": {
+		"a": "IS-456",
+		"b": "IS-10262",
+		"c": "IS-516",
+		"d": "IS-13311"
+	},
+	"correctAnswer": "c"
+},
+ {
+	"question": "4. What is the recognized age of the test specimen at the time of the test in days as per IS:516?",
+	"answers": {
+		"a": "7",
+		"b": "10",
+		"c": "28",
+		"d": "30"
+	},
+	"correctAnswer": "c"
+},
+ {
+	"question": "5. What is the most preferred length to diameter ratio of cylindrical concrete specimen as per IS:516.",
+	"answers": {
+		"a": "2",
+		"b": "4",
+		"c": "1",
+		"d": "3"
+	},
+	"correctAnswer": "a"
 }]

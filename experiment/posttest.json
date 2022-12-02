@@ -1,19 +1,40 @@
 [{
-	"question": "1. Ratio of the pulse velocities measured on two different concrete elements having same density and same Poisson's ratio is 1:2. The ratio of dynamic modulus of elasticity will be_____.",
+	"question": "1. What is the minimum number of cylindrical specimens needed for the test as per IS:516?",
 	"answers": {
-		"a": "1:2",
-		"b": "2:1",
-		"c": "1:4",
-		"d": "4:1"
+		"a": "2",
+		"b": "3",
+		"c": "4",
+		"d": "5"
 	},
-	"correctAnswer": "c"
-}, {
-	"question": "2. Pulse velocity measurement on a concrete specimen gives pulse velocity at cross-probing as 3.8Km/s. Quality of the concrete is_____.",
+	"correctAnswer": "a"
+},
+{
+	"question": "2. What should be the ratio of gauge length of the strain measuring apparatus (extensometers or strain gauges) to the diameter of test specimens?",
 	"answers": {
-		"a": "Excellent",
-		"b": "Good",
-		"c": "Poor",
-		"d": "Doubtful"
+		"a": "0.5",
+		"b": "2/3 to 1",
+		"c": "less than 2/3",
+		"d": "greater than 1"
 	},
 	"correctAnswer": "b"
+},
+{
+	"question": "3. How centering of the specimen is checked during the experiment?",
+	"answers": {
+		"a": "By checking if the individual strains are within a range of ±20 percent of their mean value at σb, at the first preloading cycle",
+		"b": "By checking if the individual strains are within a range of ±20 percent of their mean value at σa, at the first preloading cycle",
+		"c": "By checking if the individual strains are within a range of ±20 percent of their mean value at σa, at the last loading cycle",
+		"d": "Not necessary to check centering of the specimen."
+	},
+	"correctAnswer": "b"
+},
+{
+	"question": "4. On a concrete specimen of cylindrical compressive strength 27 MPa, longitudinal strains at basic and upper loading stress are 0.0001 and 0.0003. static modulus of elasticity will be",
+	"answers": {
+		"a": "27000 MPa",
+		"b": "90000 MPa",
+		"c": "30000 MPa",
+		"d": "135000 MPa"
+	},
+	"correctAnswer": "c"
 }]
