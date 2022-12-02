@@ -2,11 +2,11 @@
 
 Background: Deformations are induced in concrete structural members due to loads imposed on them. It is often necessary to calculate such deformations, including deflections for the purposes of serviceability, crack control and to consider the secondary effects of such deformations on the forces of the structures (like rib shortening, thermal effects etc). Such deformations become very significant for design of prestressed concrete. Static modulus of elasticity is used to estimate such deformations. In the absence of test values, IS:456 (2000) specifies an approximate formula for this modulus of elasticity as
 
-<img src="images/pic2.png" height="46px">
+E = $5000\sqrt{f_{ck}}$
 
 where f<sub>ck</sub> is the characteristic strength of concrete in MPa. This specified value is given after taking long term effects, i.e., creep etc, and other safety factors into account, for design purposes. To know the accurate value of elastic modulus of a concrete batch, laboratory test can be done.
 
-The stress strain curve of concrete, when loaded in compression is not linear. This is because of internal micro cracking which occurs during the application of the load. A virgin specimen generally exhibits more marked curvilinearity. Because of this curvilinear nature of the curve, three times of moduli of elasticity can be defined:
+The stress strain curve of concrete, when loaded in compression is not linear. This is because of internal micro cracking which occurs during the application of the load. A virgin specimen generally exhibits more marked curvilinearity. Because of this curvilinear nature of the curve, three types of moduli of elasticity can be defined:
 
 <ul>1. Tangent modulus at a specified strain level</ul>
 <ul>2. Initial tangent modulus</ul>
@@ -32,7 +32,7 @@ For design purposes the static modulus of elasticity is considered equivalent to
    </tr>
    <tr>
       <td style="padding: 10px">Strain measuring apparatus</td>
-      <td style="padding: 10px">Strain gauges, Compressometer-Extensometers</td>
+      <td style="padding: 10px">Dial gauge extensometer – Used for measuring the change in length (B). Shall have a gauge length of not less than two-thirds of the diameter of the test specimen (2/3 d) and shall not exceed its diameter (d)</td>
    </tr>
 </table>
 
