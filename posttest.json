@@ -1,0 +1,61 @@
+[{
+		"question": "1. What is the minimum number of cylindrical specimens needed for the test as per IS:516?",
+		"answers": {
+			"a": "2",
+			"b": "3",
+			"c": "4",
+			"d": "5"
+		},
+		"correctAnswer": "a"
+	},
+	{
+		"question": "2. What should be the ratio of gauge length of the strain measuring apparatus (extensometers or strain gauges) to the diameter of test specimens?",
+		"answers": {
+			"a": "0.5",
+			"b": "2/3 to 1",
+			"c": "less than 2/3",
+			"d": "greater than 1"
+		},
+		"correctAnswer": "b"
+	},
+	{
+		"question": "3. How centering of the specimen is checked during the experiment?",
+		"answers": {
+			"a": "By checking if the individual strains are within a range of ±20 percent of their mean value at σb, at the first preloading cycle",
+			"b": "By checking if the individual strains are within a range of ±20 percent of their mean value at σa, at the first preloading cycle",
+			"c": "By checking if the individual strains are within a range of ±20 percent of their mean value at σa, at the last loading cycle",
+			"d": "Not necessary to check centering of the specimen."
+		},
+		"correctAnswer": "b"
+	},
+	{
+		"question": "4. On a concrete specimen of cylindrical compressive strength 27 MPa, longitudinal strains at basic and upper loading stress are 0.0001 and 0.0003. static modulus of elasticity will be",
+		"answers": {
+			"a": "27000 MPa",
+			"b": "90000 MPa",
+			"c": "30000 MPa",
+			"d": "135000 MPa"
+		},
+		"correctAnswer": "c"
+	},
+	{
+		"question": "5. What is the constant laoding and unloading rate in the experiment",
+		"answers": {
+			"a": "0.2 N/mm2/s to 0.3 N/mm2/s",
+			"b": "0.2 N/mm2/min to 0.3 N/mm2/min",
+			"c": "14 N/mm2/min to 15 N/mm2/min",
+			"d": "0.5 N/mm2/s to 0.6 N/mm2/s"
+		},
+		"correctAnswer": "a"
+	},
+	{
+		"question": "6. How many loading cycles are performed in this experiment",
+		"answers": {
+			"a": "3",
+			"b": "4",
+			"c": "5",
+			"d": "2"
+		},
+		"correctAnswer": "a"
+	}
+]
