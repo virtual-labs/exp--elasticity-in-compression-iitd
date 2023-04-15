@@ -2,22 +2,22 @@
 
 <strong>For compressive strength</strong><br> 
 
-1.  Test three concrete specimens and determine the average compressive strength as per IS:516-Part 1 (2016).Converted the average cube strength to an equivalent cylinder strength (Fc) after applying necessary corrections for diameter, L/d ratio and for shape factor (cylindrical to cubical strength).<br>
+1.  Test three concrete specimens and determine the average compressive strength as per IS:516-Part 1 (2021).Converted the average cube strength to an equivalent cylinder strength (F<sub>c</sub>) after applying necessary corrections for diameter, L/d ratio and for shape factor (cylindrical to cubical strength).<br>
 
 <strong>For modulus of elasticity</strong><br>
 
 2.  Remove the cylindrical specimen out of water. While in the wet condition, attach the extensometer or strain gauges in the longitudinal direction, parallel to the axis and symmetrical about the center of the specimen. At least one pair of measurements shall be taken on opposite sides of the specimen.<br><br>
 3.  The test specimen, with the measuring instruments or fixing points attached axially, shall be placed centrally in the machine.<br><br>
-4.  Apply the load continuously and without shock at a rate of 14 N/mm2/min until stress reaches Fc/9 (σb) and maintain stress Fc/9 for 60 s.<br><br> 
-5.  Steadily increase the stress at the constant rate within the range 0.20 N/mm2/s to 0.30 N/mm2/s until the stress equals Fc/3 (σa) and maintain for 60s.<br><br>
-6.  During the succeeding 30 s measure and record the strain readings taken at each measurement line. If the individual strains are not within a range of ±20 percent of their mean value at σa, recenter the test specimen and repeat the test. If it is not possible to reduce the differences to within this range do not proceed with test.<br><br>
-7.  When the centering is sufficiently accurate, reduce the stress at the unloading rate same as loading rate to Fc/9 and maintain for 60s.<br><br>
-8.  Repeat steps 4 and 6 for two additional loading cycles using the same loading and unloading rate, and maintaining the stress (σa and σb) constant for a period of 60 s.<br><br>
-9.  After completion of the last preloading cycle and a waiting period of 60 s under the stress σb = Fc/9 N/mm2, the strain reading at the various measurement lines εb, during the succeeding 30s shall be recorded.<br><br>
-10. Increase the stress at the constant rate until the stress equals Fc/3, maintain for 60s. During the succeeding 30 s, measure and record the strain readings a taken at each measurement line εa.<br><br>
+4.  Apply the load continuously and without shock at a rate of 14 N/mm<sup>2</sup>/min until stress reaches F<sub>c</sub>/9 (σ<sub>b</sub>) and maintain stress F<sub>c</sub>/9 for 60 s.<br><br> 
+5.  Steadily increase the stress at the constant rate within the range 0.20 N/mm<sup>2</sup>/s to 0.30 N/mm<sup>2</sup>/s until the stress equals F<sub>c</sub>/3 (σ<sub>a</sub>) and maintain for 60s.<br><br>
+6.  During the succeeding 30 s measure and record the strain readings taken at each measurement line. If the individual strains are not within a range of ±20 percent of their mean value at σ<sub>a</sub>, recenter the test specimen and repeat the test. If it is not possible to reduce the differences to within this range do not proceed with test.<br><br>
+7.  When the centering is sufficiently accurate, reduce the stress at the unloading rate same as loading rate to F<sub>c</sub>/9 and maintain for 60s.<br><br>
+8.  Repeat steps 4 and 6 for two additional loading cycles using the same loading and unloading rate, and maintaining the stress (σ<sub>a</sub> and σ<sub>b</sub>) constant for a period of 60 s.<br><br>
+9.  After completion of the last preloading cycle and a waiting period of 60 s under the stress σ<sub>b</sub> = F<sub>c</sub>/9 N/mm<sup>2</sup>, the strain reading at the various measurement lines εb, during the succeeding 30s shall be recorded.<br><br>
+10. Increase the stress at the constant rate until the stress equals F<sub>c</sub>/3, maintain for 60s. During the succeeding 30 s, measure and record the strain readings a taken at each measurement line ε<sub>a</sub>.<br><br>
 11. When all elasticity measurements have been completed, the load on the test specimen shall be increased, at the specified rate, until failure of the specimen occurs.<br><br> 
-12. Check if stress at failure is within a range of ±20% of Fc. If not, this shall be noted in the test report and it shall be reported that the results may not be reliable.<br><br> 
-13. The mean strain εa and εb respectively shall be calculated and the static modulus of elasticity in compression is calculated.<br><br>
+12. Check if stress at failure is within a range of ±20% of F<sub>c</sub>. If not, this shall be noted in the test report and it shall be reported that the results may not be reliable.<br><br> 
+13. The mean strain ε<sub>a</sub> and ε<sub>b</sub> respectively shall be calculated and the static modulus of elasticity in compression is calculated.<br><br>
 
 <strong>Observations and Calculation:</strong><br>
 The result shall be expressed to the nearest 500 MPa for values over 10 000 MPa, and to the nearest 100 MPa for values below 10 000 MPa.<br><br>
@@ -45,12 +45,12 @@ Specimen type (Cube/cylinder/core):<br>
         <td></td>
     </tr>
     <tr >
-        <td>Equivalent cylinder strength (Fc)</td>
+        <td>Equivalent cylinder strength (F<sub>c</sub>)</td>
         <td></td>
     </tr>
     <tr >
-        <td>σ<sub>a</sub>= Fc/3(MPa)</td>
-        <td>σ<sub>b</sub>=Fc/9(MPa)</td>
+        <td>σ<sub>a</sub>= F<sub>c</sub>/3(MPa)</td>
+        <td>σ<sub>b</sub>=F<sub>c</sub>/9(MPa)</td>
     </tr>
 </table><br>
 
@@ -60,11 +60,11 @@ Using extensometer (three equidistant from each other)<br><br>
 <table style="width:  ">
     <tr> 
         <td rowspan="2">Specimen</td>
-        <td rowspan="2">Lo (mm)</td>
+        <td rowspan="2">L<sub>o</sub> (mm)</td>
         <td rowspan="2">Stress</td>
         <td colspan="3">∆L(mm)</td>
-        <td colspan="4">Longitudinal strain(𝛆)=∆L/Lo</td>
-        <td rowspan="2">Fc</td>
+        <td colspan="4">Longitudinal strain(𝛆)=∆L/L<sub>o</sub></td>
+        <td rowspan="2">F<sub>c</sub></td>
         <td rowspan="2">Centering<br>check (±20%)</td>
     </tr>
     <tr> 
@@ -113,10 +113,10 @@ Using extensometer (three equidistant from each other)
 <table style="width:  ">
     <tr> 
         <td rowspan="2">Specimen</td>
-        <td rowspan="2">Lo (mm)</td>
+        <td rowspan="2">L<sub>o</sub> (mm)</td>
         <td rowspan="2">Stress</td>
         <td colspan="2">∆L(mm)</td>
-        <td colspan="3">Longitudinal strain(𝛆)=∆L/Lo</td>
+        <td colspan="3">Longitudinal strain(𝛆)=∆L/L<sub>o</sub></td>
         <td rowspan="2">Fc</td>
         <td rowspan="2">Centering<br>check (±20%)</td>
     </tr>
@@ -201,7 +201,7 @@ Using extensometer (three equidistant from each other)
 Identification number of the specimen:<br>
 Date of test:<br>
 Concrete cube/cylinder/core strength at date of testing:<br>
-Maximum applied stress during test (Fc/3)<br>
+Maximum applied stress during test (F<sub>c</sub>/3)<br>
 Compressive strength of test specimens:<br>
 Static modulus of elasticity:<br>
 Appearance of the concrete and type of fracture:<br>
