@@ -37,4 +37,24 @@
 		"d": "135000 MPa"
 	},
 	"correctAnswer": "c"
+},
+{
+	"question": "5. What is the constant laoding and unloading rate in the experiment",
+	"answers": {
+		"a": "0.2 N/mm2/s to 0.3 N/mm2/s",
+		"b": "0.2 N/mm2/min to 0.3 N/mm2/min",
+		"c": "14 N/mm2/min to 15 N/mm2/min",
+		"d": "0.5 N/mm2/s to 0.6 N/mm2/s"
+	},
+	"correctAnswer": "c"
+},
+{
+	"question": 6. How many loading cycles are performed in this experiment",
+	"answers": {
+		"a": "3",
+		"b": "4",
+		"c": "5",
+		"d": "2"
+	},
+	"correctAnswer": "c"
 }]
