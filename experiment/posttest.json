@@ -46,15 +46,15 @@
 		"c": "14 N/mm2/min to 15 N/mm2/min",
 		"d": "0.5 N/mm2/s to 0.6 N/mm2/s"
 	},
-	"correctAnswer": "c"
+	"correctAnswer": "a"
 },
 {
-	"question": 6. How many loading cycles are performed in this experiment",
+	"question": 6. How many loading cycles are performed in this experiment.",
 	"answers": {
 		"a": "3",
 		"b": "4",
 		"c": "5",
 		"d": "2"
 	},
-	"correctAnswer": "c"
+	"correctAnswer": "a"
 }]
